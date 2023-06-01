@@ -1,0 +1,17 @@
+C:\Users\Usuário\source\repos\Empregado\Empregado\bin\Debug\net6.0-windows\Empregado.exe
+C:\Users\Usuário\source\repos\Empregado\Empregado\bin\Debug\net6.0-windows\Empregado.deps.json
+C:\Users\Usuário\source\repos\Empregado\Empregado\bin\Debug\net6.0-windows\Empregado.runtimeconfig.json
+C:\Users\Usuário\source\repos\Empregado\Empregado\bin\Debug\net6.0-windows\Empregado.dll
+C:\Users\Usuário\source\repos\Empregado\Empregado\bin\Debug\net6.0-windows\Empregado.pdb
+C:\Users\Usuário\source\repos\Empregado\Empregado\obj\Debug\net6.0-windows\Empregado.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\Empregado\Empregado\obj\Debug\net6.0-windows\Empregado.Form1.resources
+C:\Users\Usuário\source\repos\Empregado\Empregado\obj\Debug\net6.0-windows\Empregado.csproj.GenerateResource.cache
+C:\Users\Usuário\source\repos\Empregado\Empregado\obj\Debug\net6.0-windows\Empregado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\Empregado\Empregado\obj\Debug\net6.0-windows\Empregado.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\Empregado\Empregado\obj\Debug\net6.0-windows\Empregado.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\Empregado\Empregado\obj\Debug\net6.0-windows\Empregado.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\Empregado\Empregado\obj\Debug\net6.0-windows\Empregado.dll
+C:\Users\Usuário\source\repos\Empregado\Empregado\obj\Debug\net6.0-windows\refint\Empregado.dll
+C:\Users\Usuário\source\repos\Empregado\Empregado\obj\Debug\net6.0-windows\Empregado.pdb
+C:\Users\Usuário\source\repos\Empregado\Empregado\obj\Debug\net6.0-windows\Empregado.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\Empregado\Empregado\obj\Debug\net6.0-windows\ref\Empregado.dll
